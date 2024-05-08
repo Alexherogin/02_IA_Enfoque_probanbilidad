@@ -22,4 +22,4 @@ res = delante_atras(inicio_p,paso_adelante,pasos_atras,paso)
 
 print(f'las probabilidads de {paso}pasos son:')
 for i , prob in enumerate(res):
-    print(f'Pinteraciones{i}) = {prob}')
+    print(f'interaciones {i}) = {prob}')
