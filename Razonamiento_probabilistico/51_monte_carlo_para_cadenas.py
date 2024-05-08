@@ -4,6 +4,8 @@ import numpy as np
 
 matriz = np.array([[0.7,0.3],
                    [0.6,0.4]])
+
+
 star = np.array([0.5,0.5])
 
 pasos= 1000 
