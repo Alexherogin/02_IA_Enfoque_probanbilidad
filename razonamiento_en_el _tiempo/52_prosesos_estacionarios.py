@@ -15,4 +15,4 @@ plt.title('ruta alatoria hecha')
 plt.xlabel('pasos')
 plt.ylabel('distancia')
 
-plt.show()# se muestra la gradica creada
+plt.show()# se muestra la gradica creada10
