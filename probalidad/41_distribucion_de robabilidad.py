@@ -15,9 +15,12 @@ datos = np.random.normal(media,d_estandar,numeros)
 
 #calculos de los datos
 
-m_datos = np.mean(datos)
-D_esta_date = np.std(datos)
-diferencia_datos = np.var(datos)
+m_datos = np.mean(datos) # Calcular la media de los datos
+D_esta_date = np.std(datos)# Calcular la desviación estándar de los datos
+diferencia_datos = np.var(datos) # Calcular la diferencia de los datos
+
+#
+#    Grafica de los datos
 
 #
 

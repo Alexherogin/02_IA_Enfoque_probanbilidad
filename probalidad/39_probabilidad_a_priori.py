@@ -7,6 +7,7 @@ def priori(dados):
     proba_i=1/numeros
     return proba_i
 # Solicitar al usuario que elija un número del 1 al 6
+
 numero_buscado =int(input('escoja un numero del 1 al 6 : '))
 
 proba = priori(numero_buscado)
